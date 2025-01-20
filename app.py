@@ -1,4 +1,3 @@
-# API c09104205bd23011bad06fd40de4558b
 
 import sys
 import requests
